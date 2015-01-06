@@ -1,0 +1,40 @@
+PODS:
+  - IQKeyboardManager (3.2.0.3)
+  - MagicalRecord (2.2):
+    - MagicalRecord/Core (= 2.2)
+  - MagicalRecord/Core (2.2)
+  - MKNetworkKit (0.87):
+    - Reachability (~> 3.1.0)
+  - MKNetworkKit+RACExtensions (0.2):
+    - MKNetworkKit
+    - ReactiveCocoa
+  - Reachability (3.1.1)
+  - ReactiveCocoa (2.4.2):
+    - ReactiveCocoa/UI (= 2.4.2)
+  - ReactiveCocoa/Core (2.4.2):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.4.2)
+  - ReactiveCocoa/UI (2.4.2):
+    - ReactiveCocoa/Core
+  - ReactiveViewModel (0.3):
+    - ReactiveCocoa (~> 2.4)
+  - UMengAnalytics-NO-IDFA (3.1.11)
+
+DEPENDENCIES:
+  - IQKeyboardManager (~> 3.2.0.3)
+  - MagicalRecord (~> 2.2)
+  - MKNetworkKit+RACExtensions (~> 0.2)
+  - ReactiveViewModel
+  - UMengAnalytics-NO-IDFA
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: e0b33a5d821ab36ec47ce8ca9dc520030d6aac52
+  MagicalRecord: 2b471584fc9e3137f3d0a56967917baa4979e224
+  MKNetworkKit: 83e6296a8d42e98a71880424a889773654846d74
+  MKNetworkKit+RACExtensions: baa56100a80213502583935342bcda28c7f5f1e8
+  Reachability: 8e9635e3cb4f98e7f825e51147f677ecc694d0e7
+  ReactiveCocoa: 8418a82b67af2f1b7587baf29c329040a23c2063
+  ReactiveViewModel: 512224f801ea0a603fd394eed0f38bc662b64b9a
+  UMengAnalytics-NO-IDFA: 9072529f7ac9d9b063eede39ad58661cbcd7c643
+
+COCOAPODS: 0.35.0
